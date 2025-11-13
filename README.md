@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning **Programming Languages**
 
-- 📚 Currently I'm **Student of BCA**. 
+- 📚 Currently I'm **Student of Msc. Cyber Security**. 
 
 - 📫 How to reach me **Instagram-@vatsalgajjar03**
 
