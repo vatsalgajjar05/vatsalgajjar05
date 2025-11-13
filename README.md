@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Gajjar</h1>
-<h3 align="center">Aspiring Cybersecurity Enthusiast | Pursuing M.sc. in Cyber Security | Tech Enthusiast </h3>
+<h3 align="center">Aspiring Cybersecurity Enthusiast | Pursuing M.sc. in Cyber Security </h3>
 
 ---
 
