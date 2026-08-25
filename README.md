@@ -40,41 +40,6 @@ I have hands-on experience through cybersecurity internships and security-focuse
 
 ---
 
-## 🚀 Projects
-
-### 🧠 Cyber Threat Intelligence (CTI) Dashboard
-**Jan 2026 – Apr 2026**
-
-**Technologies:** Python • APIs • Dashboard Development
-
-- Developed a dashboard to collect, organize, and visualize cyber threat intelligence.
-- Displayed **Indicators of Compromise (IOCs)** and security-related information in an interactive interface.
-- Provided centralized threat monitoring to improve security awareness.
-
-### 🔐 Secure File Transfer Monitoring System
-**Nov 2025 – Dec 2025**
-
-**Technologies:** Python • APIs • Dashboard Development
-
-- Developed a monitoring system for secure file-transfer activities.
-- Focused on security logs and detection of suspicious transfer behavior.
-- Applied secure communication and file-integrity practices.
-
-### 🖼️ Steganography Tool
-**Nov 2025 – Dec 2025**
-
-**Technologies:** Python
-
-- Built a tool for securely hiding and extracting sensitive information within digital images.
-- Applied practical security concepts using Python.
-
-### 🚑 Live Ambulance Tracking App
-**Nov 2024 – Mar 2025**
-
-- Developed a live ambulance tracking application as a practical software project.
-- Focused on real-time tracking and application functionality.
-
----
 
 ## 🧰 Skills & Technologies
 
@@ -101,25 +66,6 @@ I have hands-on experience through cybersecurity internships and security-focuse
 
 ---
 
-## 🎓 Education
-
-### 🎓 M.Sc. in Cyber Security
-**Indus University**  
-2025 – 2027
-
-### 🎓 Bachelor of Computer Applications (BCA)
-**Sanskar Institute (Kachchh University)**  
-2021 – 2024
-
----
-
-## 📜 Certification
-
-### Google Cybersecurity Professional Certificate
-**Coursera**  
-Apr 2025 – Sept 2025
-
----
 
 ## 📚 Currently Building
 
