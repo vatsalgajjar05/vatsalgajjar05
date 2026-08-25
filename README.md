@@ -1,185 +1,186 @@
-👋 Hi, I'm Vatsal Gajjar
+# 👋 Hi, I'm Vatsal Gajjar
 
-🛡️ Aspiring Cybersecurity Analyst | Cyber Threat Intelligence | SOC | Defensive Security
+### 🛡️ Aspiring Cybersecurity Analyst | Cyber Threat Intelligence | SOC | Defensive Security
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Cyber+Threat+Intelligence;SOC+%26+Defensive+Security;Python+Security+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>---
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Cyber+Threat+Intelligence;SOC+%26+Defensive+Security;Python+Security+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
+</p>
 
-👨‍💻 About Me
+<p align="center">
+  <a href="https://github.com/vatsalgajjar05">
+    <img src="https://img.shields.io/github/followers/vatsalgajjar05?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/vatsalgajjar05?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects">
+  </a>
+</p>
 
-Hello! I'm Vatsal Gajjar from Bhuj, Gujarat, currently pursuing an M.Sc. in Cyber Security.
+---
 
-I am passionate about cybersecurity and interested in:
+## 👨‍💻 About Me
+
+Hello! I'm **Vatsal Gajjar** from **Bhuj, Gujarat**, currently pursuing an **M.Sc. in Cyber Security**.
+
+I'm passionate about **Cyber Threat Intelligence, SOC Operations, Security Analysis, and Defensive Security**.
 
 - 🔍 Cyber Threat Intelligence
-- 🛡️ Security Analysis & Defensive Security
-- 🚨 SOC Operations
+- 🚨 SOC & Security Monitoring
 - 🧩 IOC Analysis
 - 🐍 Python for Cybersecurity
-- 📊 Security Monitoring & Data Visualization
 - 🌐 API-based Security Tools
-
-I enjoy building practical security projects and continuously improving my hands-on cybersecurity skills.
-
----
-
-💼 Cybersecurity Internship
-
-🔐 Elevate Labs — Cybersecurity Intern
-
-During my cybersecurity internship, I worked on practical security-focused projects including:
-
-🧠 Cyber Threat Intelligence Dashboard
-
-Built a CTI platform integrating:
-
-- VirusTotal API
-- AbuseIPDB API
-- Malicious IP analysis
-- Threat severity classification
-- IOC management
-- Threat trend visualization
-- Administrative dashboard
-
-This project helped me strengthen my understanding of Threat Intelligence, IOC analysis, APIs, security data, and visualization.
-
-🖼️ Steganography Tool
-
-Developed a Python-based steganography tool using LSB (Least Significant Bit) techniques to securely hide and extract sensitive information inside images.
+- 📊 Security Data Analysis
+- 🔐 Network Security & Ethical Hacking
 
 ---
 
-🚀 Featured Projects
+## 💼 Cybersecurity Internship
 
-🛡️ Cyber Threat Intelligence Dashboard
+### 🔐 Elevate Labs — Cybersecurity Intern
 
-A security-focused platform designed to analyze malicious IP addresses and manage Indicators of Compromise.
+Worked on practical security projects including:
 
-Tech: Python • VirusTotal API • AbuseIPDB API • Threat Intelligence • Data Visualization
+### 🧠 Cyber Threat Intelligence Dashboard
 
-🔐 Steganography Tool
+- Integrated **VirusTotal** and **AbuseIPDB APIs**
+- Analyzed malicious IP addresses
+- Classified threat severity
+- Managed Indicators of Compromise (IOCs)
+- Visualized threat intelligence data
+- Built an admin panel for IOC management
 
-A Python security utility that demonstrates image-based data hiding and extraction using LSB steganography.
+### 🖼️ Steganography Tool
 
-Tech: Python • LSB Steganography • Image Processing
+- Developed a Python-based tool using **LSB steganography**
+- Hide and extract sensitive information inside images
+- Strengthened practical Python and security-tool development skills
 
-📱 Swasthyam — Medical Application
+---
 
-A Flutter & Firebase-based medical application focused on improving healthcare accessibility and emergency response.
+## 🚀 Featured Projects
 
-Features include:
+### 🛡️ Cyber Threat Intelligence Dashboard
+**Python • VirusTotal API • AbuseIPDB API • CTI • IOC Analysis**
 
-- 🚑 Real-time Ambulance Tracking
-- 👨‍⚕️ Doctor Appointment Scheduling
-- 🏥 Live Medical Camp Notifications
-- 📝 Online Registration Forms
+A security-focused dashboard for malicious IP investigation, threat severity classification, IOC management, and security data visualization.
+
+### 🔐 Steganography Tool
+**Python • LSB Steganography • Image Processing**
+
+A Python security tool for hiding and extracting information inside images using the Least Significant Bit technique.
+
+### 📱 Swasthyam — Medical Application
+**Flutter • Dart • Firebase**
+
+- 🚑 Real-time ambulance tracking
+- 👨‍⚕️ Doctor appointment scheduling
+- 🏥 Medical camp notifications
+- 📝 Online registration
 - 🔥 Firebase Realtime Database
 - 🔐 Firebase Authentication
 
 ---
 
-🧰 Skills & Technologies
+## 🧰 Skills & Technologies
 
-🔐 Cybersecurity
+### 🔐 Cybersecurity
 
-"Cybersecurity" (https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=shield&logoColor=white)
-"CTI" (https://img.shields.io/badge/Cyber%20Threat%20Intelligence-111827?style=for-the-badge)
-"SOC" (https://img.shields.io/badge/SOC%20Analysis-111827?style=for-the-badge)
-"IOC" (https://img.shields.io/badge/IOC%20Analysis-111827?style=for-the-badge)
-"Ethical Hacking" (https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Threat%20Intelligence-111827?style=for-the-badge" alt="Threat Intelligence">
+<img src="https://img.shields.io/badge/SOC%20Analysis-111827?style=for-the-badge" alt="SOC Analysis">
+<img src="https://img.shields.io/badge/IOC%20Analysis-111827?style=for-the-badge" alt="IOC Analysis">
+<img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge" alt="Ethical Hacking">
+</p>
 
-💻 Programming
+### 💻 Programming
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
 
-📱 Development
+### 📱 Development
 
-"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-"Dart" (https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
 
-🛠️ Tools
+### 🛠️ Tools
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Figma" (https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
 
 ---
 
-📚 Currently Learning
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalgajjar05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vatsal's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajjar05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vatsalgajjar05&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalgajjar05&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## 🎓 Education
+
+**M.Sc. in Cyber Security** — Currently Pursuing
+
+**Bachelor of Computer Applications (B.C.A.)**  
+Sanskar Institute of Management and Information Technology
+
+---
+
+## 📚 Currently Learning
 
 - 🔍 Cyber Threat Intelligence
 - 🛡️ SOC & Defensive Security
 - 🚨 Incident Detection & Response
 - 🧩 IOC Investigation
-- 🐍 Python for Security Automation
+- 🐍 Python Security Automation
 - 🌐 Network Security
 - 🔐 Ethical Hacking
 - 📊 Security Data Analysis
 
 ---
 
-🎓 Education
+## 🎯 Career Goal
 
-M.Sc. in Cyber Security
-Currently Pursuing
+**Cybersecurity Analyst • SOC Analyst • Cyber Threat Intelligence Analyst**
 
-Bachelor of Computer Applications (B.C.A.)
-Sanskar Institute of Management and Information Technology
+I'm focused on building hands-on security experience, creating practical cybersecurity projects, and continuously improving my technical skills.
 
 ---
 
-🏆 Experience
-
-Cybersecurity Intern — Elevate Labs
-
-Worked on practical cybersecurity projects involving:
-
-- Threat Intelligence
-- Malicious IP Investigation
-- VirusTotal & AbuseIPDB APIs
-- IOC Analysis
-- Python Security Tools
-- Data Visualization
-
----
-
-📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalgajjar05&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajjar05&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=vatsalgajjar05&theme=tokyonight&hide_border=true" />
-</p>---
-
-🌐 Connect With Me
-
-<p align="center"><a href="https://github.com/vatsalgajjar05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></p>---
-
-🎯 Career Goal
-
-I am currently building my practical expertise with the goal of starting my career as a:
-
-🛡️ Cybersecurity Analyst | SOC Analyst | Cyber Threat Intelligence Analyst
-
-I am always open to learning, collaborating on cybersecurity projects, and exploring new opportunities in the security domain.
-
----
-
-⚡ Fun Fact
-
-«"Code with purpose, learn with curiosity, and build with passion." 🚀»
+  <a href="https://github.com/vatsalgajjar05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
+  <b>⭐ Code with purpose • Learn with curiosity • Build with passion ⭐</b>
 </p>
