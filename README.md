@@ -1,151 +1,145 @@
 # 👋 Hi, I'm Vatsal Gajjar
 
+### 🛡️ M.Sc. Cyber Security Student | Cybersecurity Enthusiast | Aspiring SOC / Cyber Security Engineer
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Cyber+Threat+Intelligence;SOC+%26+Defensive+Security;Python+Security+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Threat+Intelligence;Security+Monitoring;Python+Security+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
----
-
-## 🛡️ About Me
-
-Hello! I'm **Vatsal Gajjar** from **Bhuj, Gujarat**, currently pursuing an **M.Sc. in Cyber Security**.
-
-I'm passionate about **Cyber Threat Intelligence, SOC Operations, Security Analysis, and Defensive Security**. I enjoy building practical projects that help me develop real-world cybersecurity skills.
-
-- 🔍 Cyber Threat Intelligence
-- 🚨 SOC & Security Monitoring
-- 🧩 IOC Analysis
-- 🐍 Python for Cybersecurity
-- 🌐 API-based Security Tools
-- 📊 Security Data Analysis & Visualization
-- 🔐 Network Security & Ethical Hacking
 
 ---
 
-## 💼 Cybersecurity Internship
+## 👨‍💻 About Me
 
-### 🔐 Elevate Labs — Cybersecurity Intern
+I'm **Vatsal Gajjar**, a cybersecurity enthusiast from **Bhuj, Kachchh, Gujarat**, currently pursuing an **M.Sc. in Cyber Security at Indus University**.
 
-Worked on practical security projects including:
+I have hands-on experience through cybersecurity internships and security-focused projects. My interests include **threat intelligence, security monitoring, network security, vulnerability assessment, and secure application development**.
 
-**🧠 Cyber Threat Intelligence Dashboard**
-- Integrated **VirusTotal** and **AbuseIPDB APIs**
-- Analyzed malicious IP addresses
-- Classified threat severity
-- Managed Indicators of Compromise (IOCs)
-- Visualized threat intelligence data
-- Built an admin panel for IOC management
-
-**🖼️ Steganography Tool**
-- Developed a Python-based tool using **LSB steganography**
-- Hide and extract sensitive information inside images
-- Strengthened understanding of security tooling and Python
+🎯 My goal is to grow as a **SOC Analyst / Cybersecurity Analyst / Cyber Security Engineer** by building practical security skills and working on real-world cybersecurity problems.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🛡️ Cyber Threat Intelligence Dashboard
-**Python • VirusTotal API • AbuseIPDB API • CTI • IOC Analysis**
+### 🔐 Cyber Security Intern — Unified Mentor
+**Jan 2026 – Apr 2026 | Remote**
 
-A security-focused dashboard for malicious IP investigation, threat severity classification, IOC management, and security data visualization.
+- Designed and developed a **Secure File Transfer Monitoring System**.
+- Monitored secure file transfers and generated security logs.
+- Implemented mechanisms to detect suspicious file-transfer activities.
+- Applied cybersecurity best practices for secure communication and file integrity.
+- Strengthened practical knowledge of secure application development and monitoring systems.
 
-### 🔐 Steganography Tool
-**Python • LSB Steganography • Image Processing**
+### 🛡️ Cyber Security Intern — Elevate Labs
+**Nov 2025 – Dec 2025 | Remote**
 
-A Python security tool for hiding and extracting information inside images using the Least Significant Bit technique.
+- Developed a **Cyber Threat Intelligence (CTI) Dashboard** to collect and visualize threat intelligence data.
+- Built a **Steganography Tool** for securely hiding and extracting sensitive information within digital images.
+- Worked on Python-based cybersecurity projects with emphasis on secure coding and practical security concepts.
+- Strengthened understanding of threat intelligence, data protection, and security automation.
 
-### 📱 Swasthyam — Medical Application
-**Flutter • Dart • Firebase**
+---
 
-A healthcare application featuring:
-- 🚑 Real-time ambulance tracking
-- 👨‍⚕️ Doctor appointment scheduling
-- 🏥 Medical camp notifications
-- 📝 Online registration
-- 🔥 Firebase Realtime Database
-- 🔐 Firebase Authentication
+## 🚀 Projects
+
+### 🧠 Cyber Threat Intelligence (CTI) Dashboard
+**Jan 2026 – Apr 2026**
+
+**Technologies:** Python • APIs • Dashboard Development
+
+- Developed a dashboard to collect, organize, and visualize cyber threat intelligence.
+- Displayed **Indicators of Compromise (IOCs)** and security-related information in an interactive interface.
+- Provided centralized threat monitoring to improve security awareness.
+
+### 🔐 Secure File Transfer Monitoring System
+**Nov 2025 – Dec 2025**
+
+**Technologies:** Python • APIs • Dashboard Development
+
+- Developed a monitoring system for secure file-transfer activities.
+- Focused on security logs and detection of suspicious transfer behavior.
+- Applied secure communication and file-integrity practices.
+
+### 🖼️ Steganography Tool
+**Nov 2025 – Dec 2025**
+
+**Technologies:** Python
+
+- Built a tool for securely hiding and extracting sensitive information within digital images.
+- Applied practical security concepts using Python.
+
+### 🚑 Live Ambulance Tracking App
+**Nov 2024 – Mar 2025**
+
+- Developed a live ambulance tracking application as a practical software project.
+- Focused on real-time tracking and application functionality.
 
 ---
 
 ## 🧰 Skills & Technologies
 
-### 🔐 Cybersecurity
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Threat%20Intelligence-111827?style=for-the-badge" alt="Threat Intelligence"/>
-  <img src="https://img.shields.io/badge/SOC%20Analysis-111827?style=for-the-badge" alt="SOC Analysis"/>
-  <img src="https://img.shields.io/badge/IOC%20Analysis-111827?style=for-the-badge" alt="IOC Analysis"/>
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge" alt="Ethical Hacking"/>
-</p>
-
 ### 💻 Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-### 📱 Development
+### 🔐 Security Tools
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Wireshark-Basic-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Nmap-Basic-4682B4?style=for-the-badge" alt="Nmap">
+  <img src="https://img.shields.io/badge/Burp%20Suite-Basic-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
 </p>
 
-### 🛠️ Tools
+### 🛡️ Cybersecurity Areas
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalgajjar05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Vatsal's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajjar05&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vatsalgajjar05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalgajjar05&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-111827?style=for-the-badge" alt="Threat Intelligence">
+  <img src="https://img.shields.io/badge/Security%20Monitoring-111827?style=for-the-badge" alt="Security Monitoring">
+  <img src="https://img.shields.io/badge/Network%20Security-111827?style=for-the-badge" alt="Network Security">
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-111827?style=for-the-badge" alt="Vulnerability Assessment">
 </p>
 
 ---
 
 ## 🎓 Education
 
-**M.Sc. in Cyber Security** — Currently Pursuing
+### 🎓 M.Sc. in Cyber Security
+**Indus University**  
+2025 – 2027
 
-**Bachelor of Computer Applications (B.C.A.)**  
-Sanskar Institute of Management and Information Technology
+### 🎓 Bachelor of Computer Applications (BCA)
+**Sanskar Institute (Kachchh University)**  
+2021 – 2024
 
 ---
 
-## 📚 Currently Learning
+## 📜 Certification
+
+### Google Cybersecurity Professional Certificate
+**Coursera**  
+Apr 2025 – Sept 2025
+
+---
+
+## 📚 Currently Building
 
 - 🔍 Cyber Threat Intelligence
-- 🛡️ SOC & Defensive Security
-- 🚨 Incident Detection & Response
-- 🧩 IOC Investigation
-- 🐍 Python Security Automation
+- 🛡️ Security Monitoring
 - 🌐 Network Security
-- 🔐 Ethical Hacking
-- 📊 Security Data Analysis
+- 🧩 IOC Analysis
+- 🐍 Python for Cybersecurity
+- 🔎 Vulnerability Assessment
+- 🚨 SOC & Defensive Security
 
 ---
 
 ## 🎯 Career Goal
 
-**Cybersecurity Analyst • SOC Analyst • Cyber Threat Intelligence Analyst**
+I'm looking to build a career in:
 
-I'm focused on building hands-on security experience, creating practical cybersecurity projects, and continuously improving my technical skills.
+**🛡️ SOC Analysis • Cybersecurity Analysis • Cyber Security Engineering • Threat Intelligence**
+
+I am continuously improving my practical cybersecurity skills through projects, internships, and hands-on learning.
 
 ---
 
@@ -153,15 +147,15 @@ I'm focused on building hands-on security experience, creating practical cyberse
 
 <p align="center">
   <a href="https://github.com/vatsalgajjar05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/vatsal-gajjar-236165293">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ Code with purpose • Learn with curiosity • Build with passion ⭐</b>
+   <b>Thank you for visiting my profile! 👋</b> 
 </p>
